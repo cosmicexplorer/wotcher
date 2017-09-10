@@ -39,5 +39,8 @@ wotcher
 # the name is dumb
 It's called `wotcher` because it watches for changes in search results, and because its primary use case is interactive search (in which case, "wotcher" would be a salutation to the user).
 
+## no like the package name
+yeah don't depend on this code
+
 # license
 [GPL 3.0+](./LICENSE)
