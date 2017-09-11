@@ -1,7 +1,7 @@
 wotcher
 =======
 
-**NOT DEVELOPED**
+**NOT DEVELOPED, LEFT FOR REFERENCE**
 
 # notes
 ## sources
@@ -19,6 +19,15 @@ wotcher
     - methods/fields
     - local/global vars
         - *which scopes?*
+
+### addresses
+- used for querying as well as returning results
+    - yes, kinda like graphql
+- source: `<protocol>://<path>`
+- content: `<protocol>://<search_string>`
+- directories are sources of files
+    - then files are sources of json/xml/html/other specified formats, OR straight text/binary string search
+    - everything is recursive
 
 ## search parameters
 - a conjunction of predicates from any selection of the above sources
