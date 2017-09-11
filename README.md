@@ -1,6 +1,8 @@
 wotcher
 =======
 
+**NOT DEVELOPED**
+
 # notes
 ## sources
 - file paths
